@@ -1,3 +1,4 @@
+<img width="2038" height="1018" alt="S_eng" src="https://github.com/user-attachments/assets/2d513cbd-2639-402c-a70e-52896f7aa775" />
 # Single_Entry_Billing_System(Eng):-
 A smart billing system for retailers and small wholesalers designed for fast, accurate billing. It supports full CRUD operations, instant product addition with suggestions, real-time updates on double-click, easy item deletion and bill clearing, and seamless bill printing for efficient checkout.
 
@@ -48,3 +49,4 @@ A smart billing system for retailers and small wholesalers designed for fast, ac
 
 * This program supports **any thermal printer** that connects via **USB** or **Bluetooth**.
 * The print format is optimized for **80mm thermal paper**.
+* Entering the Names of Products Must not have space in start or end.
